@@ -1,0 +1,44 @@
+body {
+  background-color: #141414;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #ff6929;
+  border-width: 5px;
+  width: 3%;
+}
+
+h1 {
+  color: lightgrey;
+}
+
+h3 {
+  color: lightgrey;
+}
+
+p {
+  color: lightgrey;
+}
+
+table {
+  color: lightgrey;
+  text-align: left;
+  width: 40%;
+}
+
+a {
+  color: #ff6929;
+}
+
+ul {
+  color: lightgrey;
+}
+
+ol {
+  color: lightgrey;
+}
+
+input {
+  color: lightgrey;
+}
